@@ -1,0 +1,25 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "article": "npx zenn new:article --emoji 🦁",
+    "book": "npx zenn new:book",
+    "preview": "npx zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emp1tsu/zenn-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emp1tsu/zenn-content/issues"
+  },
+  "homepage": "https://github.com/emp1tsu/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.117"
+  }
+}
